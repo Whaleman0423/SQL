@@ -9,13 +9,28 @@
 
 ## ※資料庫系統
 ### 商業 : 
-#### Microsoft SQL Server
-#### Oracle
-#### IBM DB2
-#### ...etc.
+####    Microsoft SQL Server
+####    Oracle
+####    IBM DB2
+####    ...etc.
 
 ### 開源 :
-#### MySQL
-#### PostrgeSQL
-#### MongoDB
-#### ...etc.
+####    MySQL
+####    PostrgeSQL
+####    MongoDB
+####    ...etc.
+
+## ※另一個角度看資料庫系統分類
+### SQL
+####    Microsoft SQL Server
+####    Oracle
+####    IBM DB2
+####    MySQL
+####    PostgreSQL
+### NoSQL
+####    MongoDB
+####    Firebase
+
+## Q:資料庫系統 Pros and Cons
+### 表格較直觀，但不夠靈活
+### JSON較抽象，但非常靈活
